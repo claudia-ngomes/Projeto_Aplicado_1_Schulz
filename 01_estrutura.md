@@ -95,8 +95,4 @@ Entrega 01:
 
 ---
 
-### 4. Próximos Passos (Implementação DDL no SQLite)
 
-A partir dessa estrutura conceitual, a próxima etapa consiste na criação dos
-scripts SQL (`CREATE TABLE`) para materializar o banco de dados
-`schulz_calibracao.db`, executados via Python (`executar_banco.py`).
